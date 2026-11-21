@@ -1,3 +1,9 @@
+# Large national transmission data (too big for GitHub)
+*/data/Transmission_Lines.*
+*transmission-lines*.geojson
+*transmission-lines*.zip
+240591-V1/
+
 # macOS files
 .DS_Store
 ._*
@@ -6,11 +12,6 @@ __MACOSX/
 # Windows files
 Thumbs.db
 Desktop.ini
-
-
-# Large national transmission data (too big for GitHub)
-*/data/Transmission_Lines.*
-*transmission-lines*.geojson
 
 # Mac system files
 .DS_Store
