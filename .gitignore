@@ -3,6 +3,5 @@
 ._*
 __MACOSX/
 
-# Windows files
-Thumbs.db
-Desktop.ini
+# Ignore original large transmission dataset
+/transmission line/data/transmission.geojson
