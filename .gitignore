@@ -1,3 +1,11 @@
+# Large national transmission data (too big for GitHub)
+*/data/Transmission_Lines.*
+*transmission-lines*.geojson
+*transmission-lines*.zip
+240591-V1/
+
+#download page https://www.datalumos.org/datalumos/project/240591/version/V1/view
+
 # macOS files
 .DS_Store
 ._*
@@ -5,3 +13,14 @@ __MACOSX/
 
 # Ignore original large transmission dataset
 /transmission line/data/transmission.geojson
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Mac system files
+.DS_Store
+
+# Jupyter and Python clutter
+.ipynb_checkpoints/
+__pycache__/
