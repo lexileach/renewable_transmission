@@ -3,6 +3,7 @@
 ._*
 __MACOSX/
 
-# Windows files
-Thumbs.db
-Desktop.ini
+/data/solar_ghi_lower48.tif
+/data/solar_ghi_lower48_clipped.tif
+/data/World_GHI_GISdata_LTAy_AvgDailyTotals_GlobalSolarAtlas-v2_GEOTIFF
+/data/World_GHI_GISdata_LTAy_AvgDailyTotals_GlobalSolarAtlas-v2_GEOTIFF.zip
